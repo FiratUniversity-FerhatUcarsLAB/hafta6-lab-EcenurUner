@@ -1,7 +1,10 @@
+/**
 Ad Soyad:Ecenur Üner
-Öğrenci Numarası.250541078
+Öğrenci Numarası:250541078
+Proje:Sinema Bileti
 Tarih:22.11.2025
-Açıklama: Görev 2 - Sinema Bileti
+  */
+
 
   import java.util.Scanner;
 public class SinemaBileti {
@@ -195,4 +198,5 @@ public class SinemaBileti {
         hesaplayici.generateTicketInfo(5, 15.00, 30, 3, 1);
     }
 }
+
 
