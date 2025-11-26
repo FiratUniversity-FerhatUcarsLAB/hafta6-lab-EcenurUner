@@ -2,7 +2,7 @@
 Ad Soyad:Ecenur Üner
 Öğrenci Numarası:250541078
 Proje:Sinema Bileti
-Tarih:22.11.2025
+Tarih:26.11.2025
   */
 
 
@@ -198,5 +198,6 @@ public class SinemaBileti {
         hesaplayici.generateTicketInfo(5, 15.00, 30, 3, 1);
     }
 }
+
 
 
