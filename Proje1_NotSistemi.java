@@ -1,7 +1,9 @@
+/**
 Ad Soyad:Ecenur Üner
 Öğrenci Numarası:250541078
-Tarih:19.11.2025
-Açıklama:Görev 1 - Not Listesi
+Proje:Not Sistemi
+Tarih:26.11.2025
+*/
 
   import java.util.Scanner;
   public class NotSistemi {
@@ -80,3 +82,4 @@ Açıklama:Görev 1 - Not Listesi
           System.out.println("Onur Listesi: " + (isHonorList(ortalama, vize_notu, final_notu, odev_notu) == true ? "EVET" : "HAYIR"));
       }
   }
+
